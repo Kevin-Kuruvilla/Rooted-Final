@@ -1,0 +1,1 @@
+To play our game, find the "release" folder and click on the "Test Project" executable file!
